@@ -37,3 +37,4 @@ web3==0.1.9
 aiohttp==0.5.7
 aiohttp==0.5.6
 aiohttp==0.0.1
+aiohttp==1.7.1
