@@ -18,3 +18,4 @@
 # fix 1526
 # optimize 7006
 # optimize 9443
+# optimize 6671
