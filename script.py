@@ -6,3 +6,4 @@
 # optimize 8351
 # optimize 7929
 # fix 4919
+# fix 3042
