@@ -30,3 +30,4 @@ requests==2.0.6
 eth-abi==1.2.5
 pydantic==1.2.7
 requests==2.8.3
+pydantic==2.4.7
