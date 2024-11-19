@@ -7,3 +7,4 @@
 - Update note 6518
 - Update note 8730
 - Update note 8934
+- Update note 9594
