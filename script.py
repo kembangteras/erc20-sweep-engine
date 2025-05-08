@@ -42,3 +42,4 @@
 # optimize 3554
 # fix 3821
 # fix 8122
+# fix 1506
