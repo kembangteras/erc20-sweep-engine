@@ -40,3 +40,4 @@
 # fix 1073
 # optimize 6291
 # optimize 3554
+# fix 3821
